@@ -23,11 +23,10 @@ En avril 2016, il a été diagnostiqué de métastase terminale d'un cancer pré
 
 <span style="color: blue"> Rédigé par Pieter Hintjens à 11h43, 22 avril, 2016.</span>
 
-Voici mon dernier article. Peut-être je pourrais écrire plus, 
-si j'ai encore le temps après.
-Je concentrerai mon attention à la position la plus agréable au lit, 
-la planification du traitement contre la douleur,
-et les gens autour de moi.
+L'heure est venue de vous présenter mon dernier article. Je pourrais probablement 
+en écrire plus, cependant il a y un temps pour tout. Désormais mon attention 
+se portera sur la position la plus confortable pour mon lit, la planification de mes
+anti-douleurs et les gens qui m'entourent.
 
 Hier j'ai eu douze visiteurs, y compris mes jeunes enfants aimables.
 On peut imaginer que c'est fatigant, 
