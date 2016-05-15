@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Traduction : Un protocole pour le décès (A Protocol for Dying), par Pieter Hintjens"
+title:  "Traduction : Un protocole pour mourrir (A Protocol for Dying), par Pieter Hintjens"
 comments: true
 analytics : true
 category: Vie
@@ -9,8 +9,8 @@ tags: Hintjens
 
 L'original de cet article est ici : [A Protocol for Dying](http://hintjens.com/blog:115)
 
-[Pieter Hintjens](https://en.wikipedia.org/wiki/Pieter_Hintjens) est écrivain, programmeur et penseur,
-qui a dépensé des décennies à construire de grands systèmes logiciels et des communautés en-ligne,
+[Pieter Hintjens](https://en.wikipedia.org/wiki/Pieter_Hintjens) est écrivain, programmeur et penseur. Il a
+passé des décennies à construire de grands systèmes logiciels et des communautés en-ligne,
 qu'il décrit comme des "système vivant".
 Il est un expert du calcul distribué, 
 et il a rédigé plus que 30 protocoles et système distribué.
@@ -28,17 +28,18 @@ en écrire plus, cependant il a y un temps pour tout. Désormais mon attention
 se portera sur la position la plus confortable pour mon lit, la planification de mes
 anti-douleurs et les gens qui m'entourent.
 
-Hier j'ai eu douze visiteurs, y compris mes jeunes enfants aimables.
-On peut imaginer que c'est fatigant, 
-mais l'interminable flux des amis et de la famille était comme être dans un confortable bain chaud alimenté en eau fraîche sans cesse.
-
-J'étais un homme isolé et solitaire, et peut-être un peu autiste.
-Je pensais seulement au travail, à la natation, à mes chats.
-La notion que les gens inconnus à moi pouvaient prendre plaisir de ma compagnie était étrange pour moi.
-Au moins mes œuvres, je trouvais, avaient la valeur.
-Nous avons composé des générateurs de code en Cobol.
-J'ai fait un éditeur de code que le personnel aimait bien, parce qu'il marchait gracieusement et pouvait exécuter partout.
-J'ai fait de l'auto apprentissage en C et assembleur 8086 et j'ai composé des outils shareware dans les années 1990.
+Hier j'ai eu douze visiteurs, y compris mes enfants bien aimés.
+On pourrait imaginer que c'est fatiguant, mais ce flux interminable d'amis et de ma famille était comme prendre un bon bain chaud alimenté par une réserve infinie d'eau fraîche.
+ 
+J'étais un jeune homme déconnecté et solitaire, peut-être un peu autiste.
+Je pensais seulement au travail, à la natation, à mes chats et au travail.
+La notion que des inconnus pouvaient prendre plaisir à me voir m'était complètement étrangère.
+Je trouvais que mes oeuvres avaient tout de même la valeur.
+Nous écrivions des générateurs de code en Cobol. 
+J'ai écrit un éditeur de code que le staff adorait parcequ'il
+marchait élégamment et parcequ'il tournait partout.
+J'ai appris en autodidacte le C et l'assembleur 8086. Ainsi 
+j'ai écris quelques sharewares. Les années 90 commençaient lentement.
 
 Au fil du temps j'ai appris que si on noue une petite conversation avec un inconnu,
 la réponse vient avec un rayon de plaisir.
