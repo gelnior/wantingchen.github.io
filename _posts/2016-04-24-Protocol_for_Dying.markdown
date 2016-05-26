@@ -43,13 +43,7 @@ j'ai écris quelques sharewares. Les années 90 commençaient lentement.
 
 Au fil du temps, j'appris que quand tu parles avec un étranger, au cours de n'importe qu'elle sorte d'intéraction (comme en achetant un hotdog ou en faisant ses courses), ils te répondent toujours avec beaucoup de plaisir. Petit à petit, comme une addiction rempante au café, cela devint ma drogue de choix.
 
-Finalement ça était devenu la base et alors la cible de mon travail:
-aller aux endroits étranges et rencontrer les gens inconnus.
-J'aime bien les conférences parce qu'on n'a pas besoin d'excuse.
-Tout le monde veut et espère parler.
-Rarement je parle des sujets techniques.
-On peut simplement lire le code si on veut.
-
+Au bout d'un moment c'était devenu la base puis le but de mon travail: aller dans des endroits bizarre et rencontrer des nouvelles personnes. J'ai adoré les conférences car là tu n'as pas besoin d'excuses. Tout le monde ici veut et espère parler. Je discute rarement de problèmes technique. Lis le code, si tu veux ça.
 
 Ainsi, je suis fier de mon œuvre réel, qui a été, pendant des décennies, 
 de parler, d'écouter et d'échanger des connaissances avec les gens,
