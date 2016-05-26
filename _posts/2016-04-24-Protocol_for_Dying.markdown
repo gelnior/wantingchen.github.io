@@ -28,12 +28,12 @@ en écrire plus, cependant il a y un temps pour tout. Désormais mon attention
 se portera sur la position la plus confortable pour mon lit, la planification de mes
 anti-douleurs et les gens qui m'entourent.
 
-Hier j'ai eu douze visiteurs, y compris mes enfants bien aimés.
+Hier j'ai reçu la visite de douze personnes, y compris mes enfants que j'aime tant.
 On pourrait imaginer que c'est fatiguant, mais ce flux interminable d'amis et de ma famille était comme prendre un bon bain chaud alimenté par une réserve infinie d'eau fraîche.
  
 J'étais un jeune homme déconnecté et solitaire, peut-être un peu autiste.
-Je pensais seulement au travail, à la natation, à mes chats et au travail.
-La notion que des inconnus pouvaient prendre plaisir à me voir m'était complètement étrangère.
+Je ne pensais qu'au travail, à la natation, à mes chats et au travail.
+La notion que des inconnus puissent prendre plaisir à me voir m'était complètement étrangère.
 Je trouvais que mes oeuvres avaient tout de même la valeur.
 Nous écrivions des générateurs de code en Cobol. 
 J'ai écrit un éditeur de code que le staff adorait parcequ'il
@@ -41,10 +41,7 @@ marchait élégamment et parcequ'il tournait partout.
 J'ai appris en autodidacte le C et l'assembleur 8086. Ainsi 
 j'ai écris quelques sharewares. Les années 90 commençaient lentement.
 
-Au fil du temps j'ai appris que si on noue une petite conversation avec un inconnu,
-la réponse vient avec un rayon de plaisir.
-Petit à petit, ceci devenait ma drogue de choix,
-comme une addiction graduelle au café.
+Au fil du temps, j'appris que quand tu parles avec un étranger, au cours de n'importe qu'elle sorte d'intéraction (comme en achetant un hotdog ou en faisant ses courses), ils te répondent toujours avec beaucoup de plaisir. Petit à petit, comme une addiction rempante au café, cela devint ma drogue de choix.
 
 Finalement ça était devenu la base et alors la cible de mon travail:
 aller aux endroits étranges et rencontrer les gens inconnus.
@@ -52,6 +49,7 @@ J'aime bien les conférences parce qu'on n'a pas besoin d'excuse.
 Tout le monde veut et espère parler.
 Rarement je parle des sujets techniques.
 On peut simplement lire le code si on veut.
+
 
 Ainsi, je suis fier de mon œuvre réel, qui a été, pendant des décennies, 
 de parler, d'écouter et d'échanger des connaissances avec les gens,
