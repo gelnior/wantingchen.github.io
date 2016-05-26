@@ -38,8 +38,7 @@ Je trouvais que mes oeuvres avaient tout de même la valeur.
 Nous écrivions des générateurs de code en Cobol. 
 J'ai écrit un éditeur de code que le staff adorait parcequ'il
 marchait élégamment et parcequ'il tournait partout.
-J'ai appris en autodidacte le C et l'assembleur 8086. Ainsi 
-j'ai écris quelques sharewares. Les années 90 commençaient lentement.
+J'ai appris en autodidacte le C et l'assembleur 8086. Grâce à ça j'ai pu écrire quelques sharewares. Les années 90 commençaient lentement.
 
 Au fil du temps, j'appris que quand tu parles avec un étranger, au cours de n'importe qu'elle sorte d'intéraction (comme en achetant un hotdog ou en faisant ses courses), ils te répondent toujours avec beaucoup de plaisir. Petit à petit, comme une addiction rempante au café, cela devint ma drogue de choix.
 
