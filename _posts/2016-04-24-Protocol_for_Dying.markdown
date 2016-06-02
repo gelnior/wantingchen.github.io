@@ -40,26 +40,16 @@ J'ai écrit un éditeur de code que le staff adorait parcequ'il
 marchait élégamment et parcequ'il tournait partout.
 J'ai appris en autodidacte le C et l'assembleur 8086. Grâce à ça j'ai pu écrire quelques sharewares. Les années 90 commençaient lentement.
 
-Au fil du temps, j'appris que quand tu parles avec un étranger, au cours de n'importe qu'elle sorte d'intéraction (comme en achetant un hotdog ou en faisant ses courses), ils te répondent toujours avec beaucoup de plaisir. Petit à petit, comme une addiction rempante au café, cela devint ma drogue de choix.
+Au fil du temps, j'ai appris que quand tu parles avec un étranger, lors de n'importe qu'elle sorte d'intéraction (comme en achetant un hotdog ou en faisant ses courses), ils te répondent toujours avec beaucoup de plaisir. Petit à petit, cela devint ma drogue de choix, comme une addiction rempante au café, .
 
-Au bout d'un moment c'était devenu la base puis le but de mon travail: aller dans des endroits bizarre et rencontrer des nouvelles personnes. J'ai adoré les conférences car là tu n'as pas besoin d'excuses. Tout le monde ici veut et espère parler. Je discute rarement de problèmes technique. Lis le code, si tu veux ça.
+Au bout d'un moment c'est même devenu la base voir le but de mon travail: aller dans des endroits bizarre et rencontrer des nouvelles personnes. J'ai toujours adoré les conférences car tu n'as pas besoin d'excuses. Tout le monde ici veut et espère parler à quelqu'un d'autre. D'ailleurs, je discute rarement de problèmes techniques. Il y a déjà le code pour ça.
 
-Ainsi, je suis fier de mon œuvre réel, qui a été, pendant des décennies, 
-de parler, d'écouter et d'échanger des connaissances avec les gens,
-et alors synthétiser tout ceci et puis partager avec les autres.
-Des milliers de conversations se sont ainsi faites à travers de l'Europe, de l'Amérique, de l'Afrique et de l'Asie.
-Et je peux gagner toutes les louanges que les gens crédible me donnent, comme créatif ou brillant, etc.
-Toutefois, les modèles et les théories que j'ai adaptés et documentés, 
-sont toujours issues de l'expérience quotidienne avec d'autre gens.
+Je suis si fier de ce qui a constitué mon travail depuis des décennies maintenant: parler aux gens, les écouter et échanger des connaissances pour synthétiser le tout et le partager à nouveau. J'ai eu des milliers de conversation à travers l'Europe, l'Amérique, l'Afrique et l'Asie. J'aimerais accepter tout le crédit qui m'est donné à propos de ma créativité ou de mon côté brillant. Cependant, les modèles et les théories que j'ai dessinés ou documentés ont toujours été tirés d'expérience que j'ai vécu avec d'autres gens.
 
-Merci beaucoup pour tout ça, mes amis.
-Quand je dis "je vous aime", ce n'est pas seulement un geste.
-Vous m'avez littéralement alimenté professionnellement et intellectuellement.
+Merci, mes amis, pour tout ça. Quand je vous dis "Je  vous aime", c'est sincère. Vous m'avez toujours nourri, professionnellement et intellectuellement.
 
-Donc je voulais documenter un dernier modèle, 
-qui est comment faire face au décès,
-étant donné quelques connaissances d'avance.
-Cette fois-ci je ne vais pas écrire un RFC (demande de commentaires). :)
+Je vais documenter un dernier modèle, qui explique comment mourrir en sachant ce qui va arriver et en ayant du temps. Mais pour autant cette fois je ne vais pas écrire une RFC. 
+
 
 ### Comment cela s'est passé ###
 
