@@ -54,20 +54,18 @@ Je vais documenter un dernier modèle, qui explique comment mourrir en sachant c
 ### Comment cela s'est passé ###
 
 Techniquement, j'ai un cancer métastasé des voies biliaires dans les deux poumons.
-Depuis février j'ai eu la toux sèche, la fatigue augmentée et la perte de concentration au travail.
-En mars, mon père est décédé et nous nous sommes dépêchés de l'arranger.
-Je toussais encore tous le temps.
-Le 8 avril je suis allé chez mon oncologue et je lui ai dit que je n'allais pas bien. 
+Depuis février j'ai la toux sèche. Je me suis senti de plus en plus fatigué et de moins en moins concentré.
+En mars, mon père est mort et nous nous avons du arranger ça dans l'empressement.
+Je toussais encore tout le temps. Le 8 avril je suis allé chez mon oncologue et je lui ai dit que je n'allais pas bien. 
 Elle a ordonné un CAT-scan urgent et des analyses de sang.
 
-Le 13 avril, une bronchoscopie horrible et des biopsies.
-Et puis le 15 avril, un TEP-scan.
-Pour le 16 avril, il avait été prévu que je conduise à Eindhoven pour y donner un keynote à NextBuild.
-Au contraire, je suis allé aux urgences à cause de la douleur explosive du côté des biopsies.
-Je me suis enregistré et j'ai été donné des antibiotiques, qui réduit la douleur.
-Et puis le 18 avril, mon oncologue a confirmé que c'est du cancer.
-Je suis encore ici, et mes médecins réfléchissent quelle chimio je peux essayer.
-C'est un cancer rare en Europe, avec peu de données solides.
+Le 13 avril, une bronchoscopie horrible et des biopsies.Et puis le 15 avril, un TEP-scan.
+Pour le 16 avril, il avait été prévu que j'aille à Eindhoven pour y donner une keynote à NextBuild.
+Au lieu de ça, je suis allé aux urgences avec une intense douleur sur les côtés. C'était là où j'ai fait mes biopsies.
+Je me suis enregistré et on m'a mis sous antibiotiques, ils ont réduit la douleur.
+Et puis le 18 avril, mon oncologue a confirmé que c'était un cancer.
+Je suis encore ici, et mes médecins réfléchissent à quelle chimio ils vont essayer sur moi.
+C'est un cancer rare en Europe, avec peu de données solides sur le sujet.
 
 Tous ce que nous comprenons est, cholangiocarcinoma ne répond pas bien à la chimiothérapie.
 De plus, mon cancer est agressif et envahit vite.
