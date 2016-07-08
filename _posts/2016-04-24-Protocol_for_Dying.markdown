@@ -59,8 +59,8 @@ En mars, mon père est mort et nous nous avons du arranger ça dans l'empresseme
 Je toussais encore tout le temps. Le 8 avril je suis allé chez mon oncologue et je lui ai dit que je n'allais pas bien. 
 Elle a ordonné un CAT-scan urgent et des analyses de sang.
 
-Le 13 avril, une bronchoscopie horrible et des biopsies.Et puis le 15 avril, un TEP-scan.
-Pour le 16 avril, il avait été prévu que j'aille à Eindhoven pour y donner une keynote à NextBuild.
+Le 13 avril, une bronchoscopie horrible et des biopsies. Et puis le 15 avril, un TEP-scan.
+Le 16 avril, il était prévu que j'aille à Eindhoven où je devais tenir la keynote de NextBuild.
 Au lieu de ça, je suis allé aux urgences avec une intense douleur sur les côtés. C'était là où j'ai fait mes biopsies.
 Je me suis enregistré et on m'a mis sous antibiotiques, ils ont réduit la douleur.
 Et puis le 18 avril, mon oncologue a confirmé que c'était un cancer.
@@ -72,51 +72,51 @@ De plus, mon cancer est agressif et envahit vite.
 Ensuite, j'ai déjà des clusters ailleurs dans mon corps.
 Tout ceci, ce sont des données solides.
 
-Ce jour-là, je l'ai dit au monde, et alors j'ai préparé le décès.
+Ce jour-là, j'en ai parlé à tout le monde, et ensuite j'ai préparé mon décès.
 
-### S'adresser à une personne qui va mourir ###
+### Parler à une personne qui va mourir ###
 
-Il peut s'avérer très étrange de parler une personne mourante (on la nomme "Bob").
-Voici les choses principales que l'autre personne (on l'appelle "Alice") ne devrait pas dire à Bob :
+Il peut s'avérer très étrange de parler une personne mourante (qu'on nommera "Bob").
+Voici les choses principales qu'une autre personne (on l'appellera "Alice") ne devrait pas dire à Bob :
 
-- **"Accroche-toi! Il faut avoir de l'espoir! Tu dois lutter!"**
+- **"Accroche-toi ! Il faut avoir de l'espoir ! Tu dois lutter !"**
 Il est prudent d'assumer que Bob lutte contre la maladie aussi durement que possible.
-Si non, c'est le choix de Bob entièrement.  
-- **"C'est tellement tragique. Je suis si triste. Ne meurs pas s'il te plaît!"**
+Si ce n'est pas, c'est parceque Bob en a fait le choix.  
+- **"C'est tellement tragique. Je suis si triste. Ne meurs pas s'il te plaît !"**
 C'est ce que ma fille m'a dit une fois.
-J'ai expliqué doucement qu'on ne peut jamais lutter contre la réalité.
+Je lui ai expliqué doucement qu'on ne peut jamais lutter contre la réalité.
 La mort n'est pas une option.
-Être fâché ou triste en face des faits, c'est du gaspillage de temps.  
-- **"Tu peux vaincre ceci! On ne sait jamais!"**
-C'est ce qu'Alice fait afin de exprimer son espoir.
-L'espoir faux n'est pas un médicament réel,
-contrairement à un produit efficace de chimiothérapie, ou un anti-douleur calmant.  
-- **"Il y a cette guérison alternative dont les gent parlent."**
-De telles remarques, dont j'ai eu seulement peu, heureusement, méritent un coup de marteau.
+Être fâché ou triste face à des faits, c'est du gaspillage de temps. 
+- **"Tu peux vaincre ceci ! On ne sait jamais !"**
+C'est ce qu'Alice fait afin d'exprimer son espoir.
+Mais l'espoir n'est pas un vrai médicament,
+contrairement à un produit efficace de chimiothérapie, ou un anti-douleur.  
+- **"Il y a cette mode de guérison alternatif dont les gent parlent."**
+De telles remarques, que j'ai heureusement peu eu, méritent un coup de marteau.
 Même s'il y a une guérison miraculeuse, 
-le coût et le stress (aux autres) de la chercher est un acte tellement égoïste et disproportionné,
-avec une probabilité de réussite comparable à celle de la loterie.
-On vit, et on meurt.  
+le coût et le stress (aux autres) de la chercher est un acte égoïste et disproportionné,
+dont la probabilité de réussite est comparable à celle d'un ticket de loterie.
+On vit, et on meurt. 
 - **"Lis ce chapitre de la Bible, ça t'aidera."**
 C'est très rude, offensant, maladroit et aussi arrogant.
 Si Bob veut des conseils religieux, il parlera à son prêtre.
-Dans le cas contraire: territoire interdit!
-C'est une autre offense qui encourt mon marteau.  
-- **S'engager à questionner hésitant est comme un harcèlement passif.** Par exemple,
-demander à Bob de répondre à maintes reprises des petites choses comme "je t'ai réveillé?"
+Dans le cas contraire : territoire interdit !
+C'est une autre offense qui encourt aussi mon marteau.  
+- **S'engager dans un questionnement hésitant est comme un harcèlement passif.** Par exemple,
+demander à Bob de répondre à maintes reprises des petites choses comme "je t'ai réveillé ?"
 Probablement, Bob n'a pas l'état d'esprit pour un bavardage.
-Il a envie d'avoir les gens qui restent près de lui physiquement, ou parlent des choses intéressantes (vois ci-dessous).
+Il a envie d'avoir les gens qui restent près de lui physiquement, ou parlent de choses intéressantes (vois ci-dessous).
 
-En outre, ne pleure pas au téléphone quand tu l'appelles.
+Mais aussi, ne pleure pas au téléphone quand tu l'appelles.
 Si tu sens que tu vas pleurer, raccroche le téléphone et attends pendant 10 minutes, puis rappelle-le.
-Les larmes ne sont pas le problème.
-Pourtant, la menace d'auto-apitoiement peut pousser Bob vers l'obscur.
-J'ai appris à maîtriser mon émotion mais souvent Bob est vulnérable.
+Les larmes en soit ne sont pas le problème.
+Pour autant, la menace d'auto-apitoiement peut emmener Bob dans les ténèbres.
+J'ai appris à maîtriser mes émotions mais souvent Bob est vulnérable.
 
 Voici les choses qu'Alice peut évoquer pour rendre Bob heureux.
 
-- **Les histoires de veilles aventures qu'ils ont partagées.**
-Tu le te rappelles encore? Ah oui, je me rappelle... Comme c'était bien!  
+- **Les veilles aventures qu'ils ont partagées.**
+Tu le te rappelles encore ? Ah oui, je me rappelle... Comme c'était bien!  
 - **Les détails cliniques.** 
 Bob, qui est fixé au lit tout le temps, est probablement obsédé par le rituel des soins, 
 le personnel, les médicaments, et surtout, sa maladie.
@@ -124,11 +124,11 @@ Plus bas, je discuterai les obligations de Bob concernant le partage de tout cec
 - **Aide Bob avec les détails techniques.**
 Arranger toutes les choses de la vie est très compliqué et on a besoin de beaucoup de mains et cerveaux.  
 - **"J'ai acheté ton livre."**
-dans l'hypothèse que Bob est un écrivain comme moi.
-Peut-être c'est de la flatterie, ou sincère, de toute façon ça va faire Bob sourire.
+Dans l'hypothèse que Bob est un écrivain comme moi.
+C'est peut-être de la flatterie, ou sincère, de toute façon ça va faire sourire Bob.
 
 Avant tout, évite toute émotion autre que le bonheur, 
-ne lui présente pas de problèmes additionnels.
+ne lui présente pas de problèmes supplémentaires.
 
 ### Devoir de Bob ###
 
