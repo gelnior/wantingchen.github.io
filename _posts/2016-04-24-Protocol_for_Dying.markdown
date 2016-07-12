@@ -76,44 +76,42 @@ Ce jour-là, j'en ai parlé à tout le monde, et ensuite j'ai préparé mon déc
 
 ### Parler à une personne qui va mourir ###
 
-Il peut s'avérer très étrange de parler une personne mourante (qu'on nommera "Bob").
-Voici les choses principales qu'une autre personne (on l'appellera "Alice") ne devrait pas dire à Bob :
+Il peut s'avérer très étrange de parler à une personne mourante (qu'on nommera "Bob").
+Voici principalement ce qu'une autre personne (on l'appellera "Alice") ne devrait pas dire à Bob :
 
 - **"Accroche-toi ! Il faut avoir de l'espoir ! Tu dois lutter !"**
-Il est prudent d'assumer que Bob lutte contre la maladie aussi durement que possible.
-Si ce n'est pas, c'est parceque Bob en a fait le choix.  
-- **"C'est tellement tragique. Je suis si triste. Ne meurs pas s'il te plaît !"**
+Il est vaut mieux assumer que Bob lutte contre la maladie aussi dûrement que possible.
+Et si ce n'est pas le cas, c'est parceque Bob l'a choisi.  
+- **"C'est tragique. Je suis si triste. Ne meurs pas s'il te plaît !"**
 C'est ce que ma fille m'a dit une fois.
-Je lui ai expliqué doucement qu'on ne peut jamais lutter contre la réalité.
-La mort n'est pas une option.
-Être fâché ou triste face à des faits, c'est du gaspillage de temps. 
+Je lui ai expliqué doucement qu'on ne peut jamais lutter contre la réalité. La mort n'est pas une option.
+Être fâché ou triste face à des faits, c'est perdre son temps. 
 - **"Tu peux vaincre ceci ! On ne sait jamais !"**
 C'est ce qu'Alice fait afin d'exprimer son espoir.
-Mais l'espoir n'est pas un vrai médicament,
-contrairement à un produit efficace de chimiothérapie, ou un anti-douleur.  
-- **"Il y a cette mode de guérison alternatif dont les gent parlent."**
+Mais l'espoir n'est pas un vrai médicament, contrairement à un produit 
+efficace de chimiothérapie, ou un anti-douleur.  
+- **"Il y a cet mode de guérison alternatif dont les gent parlent."**
 De telles remarques, que j'ai heureusement peu eu, méritent un coup de marteau.
 Même s'il y a une guérison miraculeuse, 
-le coût et le stress (aux autres) de la chercher est un acte égoïste et disproportionné,
-dont la probabilité de réussite est comparable à celle d'un ticket de loterie.
-On vit, et on meurt. 
+le coût et le stress (pour les autres) qu'engendre sa recherche revient à accomplir un acte 
+égoïste et disproportionné. Sa probabilité de réussite est comparable à celle d'un ticket de loterie.
+On vit et on meurt. 
 - **"Lis ce chapitre de la Bible, ça t'aidera."**
-C'est très rude, offensant, maladroit et aussi arrogant.
-Si Bob veut des conseils religieux, il parlera à son prêtre.
+C'est rude, offensant, maladroit et arrogant.
+Si Bob veut des conseils religieux, il en parlera à son prêtre.
 Dans le cas contraire : territoire interdit !
-C'est une autre offense qui encourt aussi mon marteau.  
+C'est une offense qui encourt aussi mon marteau.  
 - **S'engager dans un questionnement hésitant est comme un harcèlement passif.** Par exemple,
 demander à Bob de répondre à maintes reprises des petites choses comme "je t'ai réveillé ?"
-Probablement, Bob n'a pas l'état d'esprit pour un bavardage.
-Il a envie d'avoir les gens qui restent près de lui physiquement, ou parlent de choses intéressantes (vois ci-dessous).
-
+Probablement, Bob n'a pas l'état d'esprit pour ce genre de petits bavardage.
+Il a envie d'avoir les gens qui restent près de lui physiquement, en lui parlant de choses intéressantes (vois ci-dessous).
 Mais aussi, ne pleure pas au téléphone quand tu l'appelles.
 Si tu sens que tu vas pleurer, raccroche le téléphone et attends pendant 10 minutes, puis rappelle-le.
 Les larmes en soit ne sont pas le problème.
 Pour autant, la menace d'auto-apitoiement peut emmener Bob dans les ténèbres.
 J'ai appris à maîtriser mes émotions mais souvent Bob est vulnérable.
 
-Voici les choses qu'Alice peut évoquer pour rendre Bob heureux.
+Voici les choses qu'Alice peut évoquer pour rendre Bob heureux :
 
 - **Les veilles aventures qu'ils ont partagées.**
 Tu le te rappelles encore ? Ah oui, je me rappelle... Comme c'était bien!  
