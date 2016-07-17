@@ -114,54 +114,49 @@ J'ai appris à maîtriser mes émotions mais souvent Bob est vulnérable.
 Voici les choses qu'Alice peut évoquer pour rendre Bob heureux :
 
 - **Les veilles aventures qu'ils ont partagées.**
-Tu le te rappelles encore ? Ah oui, je me rappelle... Comme c'était bien!  
+Tu te rappelles de cette fois où ... ? Ah oui, je me rappelle... Comme c'était bien!  
 - **Les détails cliniques.** 
-Bob, qui est fixé au lit tout le temps, est probablement obsédé par le rituel des soins, 
-le personnel, les médicaments, et surtout, sa maladie.
-Plus bas, je discuterai les obligations de Bob concernant le partage de tout ceci.  
-- **Aide Bob avec les détails techniques.**
-Arranger toutes les choses de la vie est très compliqué et on a besoin de beaucoup de mains et cerveaux.  
+Bob, qui est fixé au lit tout le temps, est probablement obsédé par le rituel autour des soins, 
+par le personnel, par les médicaments, et surtout par la maladie.
+Plus bas, je discuterai les obligations de Bob concernant tout ceci.  
+- **Aider Bob avec les détails techniques.**
+Arranger toutes les choses de la vie est très compliqué et on a besoin de beaucoup de mains et cerveaux pour y arriver.  
 - **"J'ai acheté ton livre."**
-Dans l'hypothèse que Bob est un écrivain comme moi.
-C'est peut-être de la flatterie, ou sincère, de toute façon ça va faire sourire Bob.
+Dans l'hypothèse que Bob soit un écrivain comme moi, que ce soit sincère ou par flatterie, ça va faire sourire Bob.
 
-Avant tout, évite toute émotion autre que le bonheur, 
-ne lui présente pas de problèmes supplémentaires.
+Avant tout, évitez toute émotion autre que le bonheur, ne lui présentez pas de problèmes supplémentaires.
 
 ### Devoir de Bob ###
 
-Ce n'est pas toujours la responsabilité d'Alice.
-Bob aussi a ses obligations sous ce protocole.
+Tout n'est pas de la responsabilité d'Alice. Bob a aussi des obligations sous ce protocole.
 Y compris, au moins :
 
 - **Soyez heureux.** 
-Peut-être on trouve que c'est banal mais en fait c'est essentiel.
+C'est peut-être banal mais en fait c'est essentiel.
 Si vous restez triste et dépressif, Alice sera toujours misérable quand elle parle avec vous.  
-- **Évidemment, rangez vos affaires en ordre.**
-J'avais déjà attendu mon décès il y a plusieurs années, 
-alors je me suis fait dispensable partout où je pouvais.
+- **Évidemment, mettez vos affaires en ordre.**
+J'avais déjà prévu mon décès, il y a plusieurs années, alors je me suis fait dispensable partout où je pouvais.
 Pour ma famille, ce n'est pas possible.
 Pour mes œuvres, biensûr, au fil des années je me suis rentré en tant qu'acteur critiqué de la communauté ZeroMQ.  
-- **Éliminez autant de stress et frais que possible.**
+- **Éliminez autant de stress et de frais que possible.**
 Par exemple, l'euthanasie est licite en Belgique.
-J'ai déjà demandé à mon médecin de la préparer 
-(pas maintenant! Quand ce moment arrive...).
-Et j'ai demandé aux gens de venir me dire adieu avant je meurs, pas après.
+J'ai déjà demandé à mon médecin de le préparer. 
+(pas pour tout de suite! Quand le moment arrivera...).
+Et j'ai demandé aux gens de venir me dire adieu avant que je meurs, pas après.
 Pas d'obsèques.
-Je vais donner mon corps à la université ici, si elle veut.  
+Je vais donner mon corps à l'université d'ici, si elle le veut bien.  
 - **Soyez réaliste.**
-L'espoir n'est pas un médicament, comme j'ai expliqué.
-Si vous allez négocier avec vos médecins, que ce soit pragmatique et à l'intérêt de tous.
-J'ai dit les miens qu'ils peuvent essayer toute chimiothérapie expérimentale qu'ils souhaitent.
-Ils pouvaient en obtenir des données,
-et c'est la moindre récompense que je peux verser à un système qui m'a donné une extension de vie de plus que cinq ans.  
-- **Présumez le pire.**
-Quand mon oncologue voyait mon scan, elle m'a appelée tout de suite et me disait que,
-pour sa part, il s'agissait du cancer.
+L'espoir n'est pas un médicament, comme je l'ai expliqué.
+Si vous allez négocier avec vos médecins, que ce soit pragmatique et dans l'intérêt de tous.
+J'ai dit aux miens qu'ils pouvaient essayer toute chimiothérapie expérimentale qu'ils souhaitaient.
+Ils pourraient en obtenir des données,
+et c'est la moindre des récompense que je pourrais donner à un système qui a prolongé ma vie de plus de cinq ans.  
+- **S'attendre au pire.**
+Quand mon oncologue voyait mon scan, elle m'a appelée tout de suite et me disait qu'il s'agissait d'un cancer.
 J'ai raccroché le téléphone et puis, je l'ai dit aux enfants.
-Le lendemain j'ai dit à leurs écoles, mon avocat, et mon notaire, d'expecter le pire.
-Après dix jours, les biopsies l'ont confirmé.
-Ça nous a donné dix jours plus pour nous chagriner, et plus de temps à préparer.  
+Le lendemain j'ai dit à leurs écoles, à mon avocat, et à mon notaire, de s'attendre au pire.
+Après dix jours, les biopsies ont confirmé le diagnostic.
+Ça nous a donné dix jours plus pour nous chagriner, et plus de temps pour se préparer.  
 - **Soyez honnête et transparent avec les autres.**
 Il faut du temps au chagrin. 
 Il est bien plus facile de traiter le décès de Bob si l'on peut en parler avec Bob.
@@ -171,9 +166,9 @@ Il n'y a aucune honte au décès, ce n'est pas un échec.
 
 Mes enfants ont 12, 9, 5 ans. Tragique, etc., etc.
 Ils grandiront sans leur père. C'est une réalité.
-Pourtant ils grandiront avec moi dans leur ADN, 
-dans les discours de conférence interminable au Youtube,
-et dans mes mots.
+Pourtant ils grandiront avec moi à travers leur ADN, 
+mes discours de conférence interminable sur Youtube,
+et mes mots.
 
 Je leur ai déjà expliqué doucement, plusieurs fois pendant des années, comme ça:
 Un jour, je serai parti. Peut-être bien loin au futur, peut-être bientôt.
@@ -188,7 +183,7 @@ Bien, oui.
 Ensuite tu peux encore construire une nouvelle maison?
 "Non, pas vraiment."
 Ainsi nous sommes comme les maisons de Lego.
-Quand nous mourons, nous tombons en pièces qui seront rendues à la boîte.
+Quand nous mourons, nous tombons en pièces qui retournent dans leur boîte.
 Nous mourons, et de nouveaux bébés peuvent naître.
 C'est la roue de la vie.
 
